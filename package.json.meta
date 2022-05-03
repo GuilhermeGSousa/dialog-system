@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 9a0a1b87a0d96794288cc9f241c17b9f
+guid: 1847c7904c4ed6344a9a05e8c78a3f30
 ScriptedImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -18,7 +18,8 @@ ScriptedImporter:
     keyValuePairs:
     - key: com.github.siccity.xnode
       value: https://github.com/Siccity/xNode.git
-  keywords: []
+  keywords:
+  - XNode
   author:
     name: Guilherme Sousa
     email: 

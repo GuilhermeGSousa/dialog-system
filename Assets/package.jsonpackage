@@ -10,6 +10,7 @@
         "com.github.siccity.xnode" : "https://github.com/Siccity/xNode.git"
     },
     "keywords"     : [
+        "XNode"
     ],
     "author"       : {
         "name" : "Guilherme Sousa",

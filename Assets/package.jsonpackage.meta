@@ -18,7 +18,8 @@ ScriptedImporter:
     keyValuePairs:
     - key: com.github.siccity.xnode
       value: https://github.com/Siccity/xNode.git
-  keywords: []
+  keywords:
+  - XNode
   author:
     name: Guilherme Sousa
     email: 
