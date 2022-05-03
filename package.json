@@ -1,0 +1,19 @@
+
+{
+    "name" : "com.codfishcode.dialog-system",
+    "version" : "0.1.0",
+    "displayName" : "Dialog System",
+    "description" : "",
+    "unity"       : "2020.3",
+    "unityRelease" : "",
+    "dependencies" : {
+        "com.github.siccity.xnode" : "https://github.com/Siccity/xNode.git"
+    },
+    "keywords"     : [
+    ],
+    "author"       : {
+        "name" : "Guilherme Sousa",
+        "email" : "",
+        "url"   : ""
+    }
+}

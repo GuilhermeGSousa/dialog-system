@@ -1,0 +1,17 @@
+{
+    "name": "dialog-system",
+    "rootNamespace": "",
+    "references": [
+        "GUID:c6bd293fc26bc8e48b7b2e5859555096",
+        "GUID:36ee6f2a6c9640f409cadbe16044cf79"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 9a0a1b87a0d96794288cc9f241c17b9f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 305d72b64a2242c0b6ff1d70a6bc89f4, type: 3}
+  name: com.codfishcode.dialog-system
+  version: 0.1.0
+  displayName: Dialog System
+  description: 
+  unity: 2020.3
+  unityRelease: 
+  dependencies:
+    keyValuePairs:
+    - key: com.github.siccity.xnode
+      value: https://github.com/Siccity/xNode.git
+  keywords: []
+  author:
+    name: Guilherme Sousa
+    email: 
+    url: 
+  autoExportJson: 0
+  registryUrl: 
