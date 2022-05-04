@@ -1,5 +1,13 @@
 {
   "dependencies": {
+    "com.codfishcode.dialog-system": {
+      "version": "file:DialogSystem",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {
+        "com.github.siccity.xnode": "1.8.0"
+      }
+    },
     "com.github.siccity.xnode": {
       "version": "https://github.com/Siccity/xNode.git",
       "depth": 0,
